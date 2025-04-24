@@ -17,9 +17,9 @@ global.github = process.env.GITHUB || "https://github.com/Toxic1239/RIASGREMORYB
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c21ae479aab857b4f8006.jpg";
-global.devs = "2348086541281";
-global.sudo = process.env.SUDO || "2348086541281";
-global.owner = process.env.OWNER_NUMBER || "2348086541281";
+global.devs = "263714183261";
+global.sudo = process.env.SUDO || "263714183261";
+global.owner = process.env.OWNER_NUMBER || "263714183261";
 global.style = process.env.STYLE || "1";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -42,17 +42,17 @@ global.scan = "https://riasgremorybot-xcqv.onrender.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUZ3T29GTml2WG9XMS9HOWk5RUZuT3MvQ0c3MVFoc0ZkOFZ0cmFLUlVVaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaWk0aWtwMTVnV2VHcGMyUFdnNUpqVzFjVHBkQy9hTDI4czZIclBaNVNFcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJxQjE0UlUxMG0vTWhyZ0JNS3pnKzBETXBtM25mbW40aklNb3pwNXNpWkVjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJmeGhxVzdHc0lRS09TeUVNMzNZVDV3MkxjNHF3VUpkVlg4ZjdOUGtxckVVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1BMFExTlFKb1hKVFB2TnQveHhUNVRoSzdsZkI5SDJ0VGx5bDQ4RTVTM2s9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InMxTzFhekoraXVtNG5QdUNiOElPZklwZ0QzdmRqTitPV2RRQUdqU21GRHM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUVYenNERkFQbGtxTG93bWh1SklIckZTRFc2bHFFYWNKeFBZQ3NmNzltRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR3NERVErWDFaZmpOVzhlNzkySjN0cHh4VExPWHFHVlJIUW0yVVlWcUFSQT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNXbVpMY0RLNXBPVU4relZPWFErVFlybTJmYUxoQk0vMmhFckVjVE1mcU5udnhIQmprQkNJdmtKQW5ZaXZ0OWFDc1BmWGhINERqVEluUGFnb3VTZ0FRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OTYsImFkdlNlY3JldEtleSI6IkoyRjE1TmtqTFZrV1Yybk5jWGVmY1BxTFI0dXRNOWxtNGRCdUQ3QU8zb0E9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IjBLLXNiOE81UkZDN2FVaktldEJhNXciLCJwaG9uZUlkIjoiOWUxMTNiMTMtYmI0Mi00YzJhLTkwYTgtMzFkNWM1NDk5ZDk2IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdPbnQwc1pVWE8zRzdkbGRBckNzK2t5dUpMST0ifSwicmVnaXN0ZXJlZCI6ZmFsc2UsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUjN5LzR5U0FnNFdvbEpOamZsSytGWStIOW5jPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTm1JMlpnR0VMaVNxTUFHR0JBZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiT0gyK281ZkwzSTEweWFRRjVwb083bURqUjBqZEJ0eHd4TTI4ZDdOOXdqWT0iLCJhY2NvdW50U2lnbmF0dXJlIjoid1RubHh4L0J2VGs5UVNNa3BCYlpIMy90emhRa01pWGo0Q2tENHFTTGxhdWJhcDhiOUJTMG0zTHZjMVNpWVNVLzQ5ZnFseGdxMzhJbnMyUUtKTlpDQlE9PSIsImRldmljZVNpZ25hdHVyZSI6ImFVSFlCNEY4UTY3UlVibUQ2Wk9WWmJEYXZXOW4vZmw4MjRUWDVIbm1CYXp1SGtvb2M1RC9HQW1ONElGYjFwdmcxWWl2SmFrOFZ3RFNyMzZZTk94ckNnPT0ifSwibWUiOnsiaWQiOiIyNjM3MTQxODMyNjE6MTlAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiU0hBRE9XIFdBTEtFUiIsImxpZCI6Ijc0NTc0MDg3NjIyNzM5OjE5QGxpZCJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNjM3MTQxODMyNjE6MTlAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVGg5dnFPWHk5eU5kTW1rQmVhYUR1NWc0MGRJM1FiY2NNVE52SGV6ZmNJMiJ9fV0sInBsYXRmb3JtIjoic21iYSIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0FnSURRPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQ1NDg4MTk3LCJsYXN0UHJvcEhhc2giOiIyRzRBbXUiLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUtoZyJ9"
 module.exports = {
   menu: process.env.MENU || "1",
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.3.1",
-  caption: process.env.CAPTION || "𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗧𝗢𝗫𝗫𝗜𝗖 𝗕𝗢𝗬",
-  author: process.env.PACK_AUTHER || "ᴛᴏxxɪᴄ ᴍᴅ",
-  packname: process.env.PACK_NAME || "𝗥𝗜𝗔𝗦 𝗠𝗗",
-  botname: process.env.BOT_NAME || "𝗥𝗜𝗔𝗦 𝗚𝗥𝗘𝗠𝗢𝗥𝗬",
-  ownername: process.env.OWNER_NAME || "ᴛᴏxxɪᴄ",
+  caption: process.env.CAPTION || "SHADOW WALKER V2",
+  author: process.env.PACK_AUTHER || "Shadow walker v2",
+  packname: process.env.PACK_NAME || "SHADOW 𝗠𝗗",
+  botname: process.env.BOT_NAME || "SHADOW WLAKER BOT",
+  ownername: process.env.OWNER_NAME || "Mandishona Innocent",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
